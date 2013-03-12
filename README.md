@@ -1,0 +1,4 @@
+myPackage
+=========
+
+my first package
